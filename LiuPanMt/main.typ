@@ -34,8 +34,50 @@ Furthermore, the development of transportation infrastructure in the LiuPan Moun
 
 In conclusion, the close connection between market openness and industrial development necessitates robust support from transportation infrastructure. Through an in-depth examination of the industrial structure and transportation development in the LiuPan Mountain Area, we can provide more targeted recommendations for future policy formulation and project planning, fostering sustainable poverty alleviation and development in the region.
 
-=== Contributions
-#lorem(40)
+= Current Status of Transportation
+
+In this section, I will provide a thorough analysis on current status of transportation in Guyuan, Ningxia Province. Given @roadsInGuyuan contains the basic means of transport in preceding area.
+
+#figure(
+  image("roads.jpg", width: 50%), 
+  caption: [Current status of transportation in LiuPan Mt. Area (Guyuan as an example)],
+) <roadsInGuyuan>
+
+== Road Infrastructure
+
+=== Evaluation
+
+==== Accessibility
+The several poverty-stricken areas are all connected to roads with a level of no less than 2, which means that they are equipped with typically 4 lanes and are capable of holding up to 7000 passing cars every day. Highways are available to most areas, providing a swift connectivity to surrounding cities.
+
+==== Efficiency
+With main railway lines and highways cutting across it, Guyuan has a fast connectivity to other provincial capitals. People in the two extremely poor county, Haiyuan and Xiji, now are both able to travel to Guyuan within an hour. 
+
+=== Newly Built Roads
+
+During the Chinese government's struggle of eliminating poverty in a 10-year row, considerable number of roads are newly built to ensure the wellbeing of local people. Local government spent approximately 330 million US\$ on G109, a new 118 km national highway. Besides, several provincial highways are also put into use. Altogether, the average road density in this area reaches $68.3" km"\/100 " km"^2$, surpassing the country's average value.
+
+=== Recommendations and Future Development
+
+Consider @ecology. the construction of roads is greatly affected by ecological protection. Current routes avoid intersecting with ecological protection area. 
+
+
+#figure(
+  image("ecology.jpg", width: 50%),
+  caption: [Ecological security pattern construction and restoration zoning],
+) <ecology>
+
+From a larger scale, evident is that Xiji and Haiyuan can be connected into the road system with roads of a higher level without affecting local ecological protection. Specifically, Haiyuan and Xiji may establish roads to the West. That these roads are not built can mainly be attributed to a lack of effort put into the border area of provinces. 
+
+== Railway and Aviation
+
+=== Railway Availability
+
+According to @roadsInGuyuan, the railway connections in Guyuan predominantly align along a north-south axis, with few branch railways extending to surrounding counties. Though they may not show an urge request on railway connectivity, several branch railways will absolutely improve their convenience and facilitate the transportation of local goods to external markets.
+
+=== Aviation
+
+The Guyuan LiuPan Mt. Airport, lying in rural Guyuan, is the primary aviation hub in the Liupan Mt. Area. Currently meeting transportation needs, the airport provides a rapid way to transport to other cities. It is a vital link for goods and people, contributing to local economy. Recommendations include advocating for necessary infrastructure upgrades to enhance connectivity, ensuring the airport continues to play a pivotal role in supporting economic development and poverty alleviation initiatives in the Liupan Mountain region. Currently no sign of needing a thorough update can be detected. 
 
 = Related Work
-#lorem(500)
+
