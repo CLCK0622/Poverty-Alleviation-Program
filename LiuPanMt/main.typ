@@ -81,7 +81,7 @@ The Guyuan Liupan Mt. Airport, lying in rural Guyuan, is the primary aviation hu
 
 == Evaluation of Effects
 
-Given @GDP-comparison, we can see that the per capita GDP of Liupan Mountain District increased faster than that of other regions, and was close to the per capita GDP of Tibet in 2018. Although the per capita GDP of Liupan Mountain District is far higher than that of other contiguous poverty belts, it is still far less than the national average.
+Given @GDP-comparison, we can see that the per capita GDP of Liupan Mountain District increased faster than that of other regions, and was close to the per capita GDP of Tibet in 2018. Although the per capita GDP of Liupan Mountain District is far higher than that of other contiguous poverty belts, it is still far less than the national average. However, the situation has been improving fast and the 
 
 #figure(
   image("GDP-comparison.png"),
@@ -97,3 +97,7 @@ Looking forward, the Liupan Mountain region stands to benefit significantly from
 == Policy Support and Investment
 
 The role of government policies and investments in shaping the future of transportation in the Liupan Mountain region cannot be overstated. As evidenced by our analysis, strategic policy interventions are essential to address existing infrastructure gaps and promote inclusive development. It is recommended that the government not only amplifies financial commitments to transportation infrastructure but also adopts more flexible and adaptive policies. By encouraging private sector participation and collaboration, these policies can unlock new avenues for funding, innovation, and project implementation. Public-private partnerships are particularly crucial in catalyzing the comprehensive and timely development of transportation networks, aligning with the overarching goals of poverty reduction and sustainable economic advancement in the Liupan Mountain region.
+
+= Summary
+
+By giving a thorough analysis over the transport in Liupan Mountain Area, we can conclude that transport has played a role that cannot be substituded in the poverty alleviation in this area. To better achieve the goal, the government has to continuously increase the effort put into the development of road infrastructure.
