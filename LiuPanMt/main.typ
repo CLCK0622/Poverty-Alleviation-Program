@@ -9,7 +9,7 @@
   ),
   // Insert your abstract after the colon, wrapped in brackets.
   // Example: `abstract: [This is my abstract...]`
-  abstract: [This is my abstract...(Work in Progress)],
+  abstract: [This paper examines the role of transportation in poverty alleviation efforts within the Liupan Mountain Area of China. It argues that improved transportation infrastructure unlocks market access for agricultural products, fosters industrial development, and ultimately boosts incomes and well-being in impoverished regions. By analyzing the interplay between market openness, industrial structure, and strategic transportation planning, the paper provides recommendations for sustainable poverty reduction initiatives in the Liupan Mountain Area.],
 )
 
 = Introduction
@@ -39,7 +39,7 @@ In conclusion, the close connection between market openness and industrial devel
 In this section, I will provide a thorough analysis on current status of transportation in Guyuan, Ningxia Province. Given @roadsInGuyuan contains the basic means of transport in preceding area.
 
 #figure(
-  image("roads.jpg", width: 50%), 
+  image("roads.jpg"), 
   caption: [Current status of transportation in Liupan Mt. Area (Guyuan as an example)],
 ) <roadsInGuyuan>
 
@@ -55,7 +55,7 @@ With main railway lines and highways cutting across it, Guyuan has a fast connec
 
 === Newly Built Roads
 
-During the Chinese government's struggle of eliminating poverty in a 10-year row, considerable number of roads are newly built to ensure the wellbeing of local people. Local government spent approximately 330 million US\$ on G109, a new 118 km national highway. Besides, several provincial highways are also put into use. Altogether, the average road density in this area reaches $68.3" km"\/100 " km"^2$, surpassing the country's average value.
+During the Chinese government's struggle of eliminating poverty in a 10-year row, considerable number of roads are newly built to ensure the wellbeing of local people. Local government spent approximately 2.35 billion CNY (about 330 million USD) on G109, a new 118 km national highway. Besides, several provincial highways are also put into use. Altogether, the average road density in this area reaches $68.3" km"\/100 " km"^2$, surpassing the country's average value.
 
 === Recommendations and Future Development
 
@@ -63,7 +63,7 @@ Consider @ecology. the construction of roads is greatly affected by ecological p
 
 
 #figure(
-  image("ecology.jpg", width: 50%),
+  image("ecology.jpg"),
   caption: [Ecological security pattern construction and restoration zoning],
 ) <ecology>
 
