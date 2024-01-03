@@ -81,7 +81,7 @@ The Guyuan Liupan Mt. Airport, lying in rural Guyuan, is the primary aviation hu
 
 == Evaluation of Effects
 
-Given @GDP-comparison, we can see that the per capita GDP of Liupan Mountain District increased faster than that of other regions, and was close to the per capita GDP of Tibet in 2018. Although the per capita GDP of Liupan Mountain District is far higher than that of other contiguous poverty belts, it is still far less than the national average. However, the situation has been improving fast and the 
+Given @GDP-comparison, we can see that the per capita GDP of Liupan Mountain District increased faster than that of other regions, and was close to the per capita GDP of Tibet in 2018. Although the per capita GDP of Liupan Mountain District is far higher than that of other contiguous poverty belts, it is still far less than the national average. 
 
 #figure(
   image("GDP-comparison.png"),
