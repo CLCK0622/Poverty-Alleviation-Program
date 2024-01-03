@@ -36,7 +36,7 @@ In conclusion, the close connection between market openness and industrial devel
 
 = Current Status of Transportation
 
-In this section, I will provide a thorough analysis on current status of transportation in Guyuan, Ningxia Province. Given @roadsInGuyuan contains the basic means of transport in preceding area.
+In this section, I will provide a thorough analysis on current status of transportation in Guyuan, Ningxia Province. Given @roadsInGuyuan contains the basic means of transport in preceding area, according to @construction-of-three-main-roads-begins @much-progress-has-been-achieved @length-reaches-30000km.
 
 #figure(
   image("roads.jpg"), 
@@ -63,8 +63,8 @@ Consider @ecology. the construction of roads is greatly affected by ecological p
 
 
 #figure(
-  image("ecology.jpg"),
-  caption: [Ecological security pattern construction and restoration zoning],
+  image("ecology.jpg", width: 80%),
+  caption: [Ecological security pattern construction and restoration zoning @biology-situation],
 ) <ecology>
 
 From a larger scale, evident is that Xiji and Haiyuan can be connected into the road system with roads of a higher level without affecting local ecological protection. Specifically, Haiyuan and Xiji may establish roads to the West. That these roads are not built can mainly be attributed to a lack of effort put into the border area of provinces. 
@@ -101,3 +101,5 @@ The role of government policies and investments in shaping the future of transpo
 = Summary
 
 By giving a thorough analysis over the transport in Liupan Mountain Area, we can conclude that transport has played a role that cannot be substituded in the poverty alleviation in this area. To better achieve the goal, the government has to continuously increase the effort put into the development of road infrastructure.
+
+#bibliography("ref.yml")

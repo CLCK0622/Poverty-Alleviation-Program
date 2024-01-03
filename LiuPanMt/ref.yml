@@ -1,0 +1,44 @@
+construction-of-three-main-roads-begins:
+    type: Web
+    title: 三条六盘山扶贫干线年内开工
+    url: https://www.jianpincn.com/zgjpsjk/jpda/14g/lpspq/fpyw/510209.html
+    # author: ["Anonymous"]
+    editor: ["youziyue"]
+    date: 2017-08-17
+    parent:
+      type: Web
+      organization: Chinese Academy of Social Science
+      url: https://www.jianpincn.com/
+      publisher: Social Sciences Academic Press
+
+much-progress-has-been-achieved:
+    type: Web
+    title: 宁夏六盘山片区交通精准扶贫成效显著
+    url: https://www.jianpincn.com/zgjpsjk/jpda/14g/lpspq/fpyw/510218.html
+    # author: ["Anonymous"]
+    editor: ["youziyue"]
+    date: 2017-08-17
+    parent:
+      type: Web
+      organization: Chinese Academy of Social Science
+      url: https://www.jianpincn.com/
+      publisher: Social Sciences Academic Press
+
+length-reaches-30000km:
+    type: Web
+    title: 宁夏六盘山片区公路里程达三万公里 部区合力攻坚 六盘山乡巨变
+    url: https://www.mot.gov.cn/jiaotongyaowen/202007/t20200714_3430405.html
+    date: 2020-07-14
+    parent:
+      type: Web
+      organization: Ministry of Transport of the People's Republic of China
+      url: https://www.mot.gov.cn/
+      publisher: China Transportation News Network
+
+biology-situation:
+    type: Article
+    title: 六盘山区国土空间生态安全格局构建与分区优化
+    date: 2022-12-23
+    author: ["包玉斌", "王耀宗", "路锋", "刘自增", "马大为", "杨勇", "吴娟", "张永康"]
+    journal: Arid Zone Research
+    doi: "10.13866/j.azr.2023.07.14"
