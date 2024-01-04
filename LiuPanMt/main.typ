@@ -3,9 +3,9 @@
 // Take a look at the file `template.typ` in the file panel
 // to customize this template and discover how it works.
 #show: project.with(
-  title: "Liupan Mt. Area",
+  title: "The Role of Transport Systems in Poverty Alleviation in the Liupan Mountain Area",
   authors: (
-    (name: "Zhong 'Kevin' Yi", email: "zhongyi070622@gmail.com", affiliation: "No. 2 High School of East China Normal University", phone: "+86 136-5173-0570"),
+    (name: "Yi 'Kevin' Zhong", email: "zhongyi070622@gmail.com", affiliation: "No. 2 High School of East China Normal University", phone: "+86 136-5173-0570"),
   ),
   // Insert your abstract after the colon, wrapped in brackets.
   // Example: `abstract: [This is my abstract...]`
