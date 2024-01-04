@@ -42,3 +42,11 @@ biology-situation:
     author: ["包玉斌", "王耀宗", "路锋", "刘自增", "马大为", "杨勇", "吴娟", "张永康"]
     journal: Arid Zone Research
     doi: "10.13866/j.azr.2023.07.14"
+
+area-situation:
+    type: Article
+    title: Connotation of High-quality Development in Relative Poverty Areas of China and Implementation Strategy
+    date: 2020-06-24
+    author: ["ZHOU Kan", "SHENG Kerong", "FAN Jie", "LIU Hanchu", "WU Jianxiong"]
+    journal: Bulletin of Chinese Academy of Sciences
+    doi: "10.16418/j.issn.1000-3045.20200407002"

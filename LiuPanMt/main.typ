@@ -55,7 +55,7 @@ With main railway lines and highways cutting across it, Guyuan has a fast connec
 
 === Newly Built Roads
 
-During the Chinese government's struggle of eliminating poverty in a 10-year row, considerable number of roads are newly built to ensure the wellbeing of local people. Local government spent approximately 2.35 billion CNY (about 330 million USD) on G109, a new 118 km national highway. Besides, several provincial highways are also put into use. Altogether, the average road density in this area reaches $68.3" km"\/100 " km"^2$, surpassing the country's average value.
+During the Chinese government's struggle of eliminating poverty in a 10-year row, considerable number of roads are newly built to ensure the wellbeing of local people. Local government spent approximately 2.35 billion CNY (about 330 million USD) on G109, a new 118 km national highway. Besides, several provincial highways are also put into use. Altogether, the average road density in this area reaches $68.3" km"\/100 " km"^2$@much-progress-has-been-achieved, surpassing the country's average value. 
 
 === Recommendations and Future Development
 
@@ -81,7 +81,7 @@ The Guyuan Liupan Mt. Airport, lying in rural Guyuan, is the primary aviation hu
 
 == Evaluation of Effects
 
-Given @GDP-comparison, we can see that the per capita GDP of Liupan Mountain District increased faster than that of other regions, and was close to the per capita GDP of Tibet in 2018. Although the per capita GDP of Liupan Mountain District is far higher than that of other contiguous poverty belts, it is still far less than the national average. 
+Given @GDP-comparison, we can see that the per capita GDP of Liupan Mountain District increased faster than that of other regions, and was close to the per capita GDP of Tibet in 2018 @area-situation. Although the per capita GDP of Liupan Mountain District is far higher than that of other contiguous poverty belts, it is still far less than the national average. 
 
 #figure(
   image("GDP-comparison.png"),
