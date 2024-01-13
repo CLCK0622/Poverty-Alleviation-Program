@@ -1,7 +1,7 @@
 #import "template.typ": *
 
 #show: project.with(
-  title: "Liupan Mt. Area",
+  title: "The Role of Transport Systems in Poverty Alleviation in the Liupan Mountain Area",
   authors: (
     (name: "Yi 'Kevin' Zhong", email: "clck0622@163.com", affiliation: "No. 2 High School of East China Normal University", phone: "+86 136-5173-0570, +65 8-067-0241 (not always available)"),
   ),
@@ -34,7 +34,7 @@ In conclusion, the close connection between market openness and industrial devel
 
 = Current Status of Transportation
 
-In this section, I will provide a thorough analysis on current status of transportation in Guyuan, Ningxia Province. Given @roadsInGuyuan contains the basic means of transport in preceding area.
+In this section, I will provide a thorough analysis on current status of transportation in Guyuan, Ningxia Province. Given @roadsInGuyuan contains the basic means of transport in preceding area, according to @construction-of-three-main-roads-begins @much-progress-has-been-achieved @length-reaches-30000km.
 
 #figure(
   image("roads.jpg"), 
@@ -53,7 +53,7 @@ With main railway lines and highways cutting across it, Guyuan has a fast connec
 
 === Newly Built Roads
 
-During the Chinese government's struggle of eliminating poverty in a 10-year row, considerable number of roads are newly built to ensure the wellbeing of local people. Local government spent approximately 2.35 billion CNY (about 330 million USD) on G109, a new 118 km national highway. Besides, several provincial highways are also put into use. Altogether, the average road density in this area reaches $68.3" km"\/100 " km"^2$, surpassing the country's average value.
+During the Chinese government's struggle of eliminating poverty in a 10-year row, considerable number of roads are newly built to ensure the wellbeing of local people. Local government spent approximately 2.35 billion CNY (about 330 million USD) on G109, a new 118 km national highway. Besides, several provincial highways are also put into use. Altogether, the average road density in this area reaches $68.3" km"\/100 " km"^2$@much-progress-has-been-achieved, surpassing the country's average value. 
 
 === Recommendations and Future Development
 
@@ -62,7 +62,7 @@ Consider @ecology. the construction of roads is greatly affected by ecological p
 
 #figure(
   image("ecology.jpg", width: 80%),
-  caption: [Ecological security pattern construction and restoration zoning],
+  caption: [Ecological security pattern construction and restoration zoning @biology-situation],
 ) <ecology>
 
 From a larger scale, it is apparent that Xiji and Haiyuan can be connected into the road network with roads of a higher level without affecting local ecological preservation. Specifically, there is potential for the establishment of westward roads connection Haiyuan and Xiji. The absence of these roads can be mainly attributed to insufficient attention and efforts directed towards the border areas between provinces. 
@@ -108,3 +108,5 @@ The role of government policies and investments in shaping the future of transpo
 = Summary
 
 By giving a thorough analysis over the transport in Liupan Mountain Area, we can conclude that transport has played a role that cannot be substituded in the poverty alleviation in this area. To better achieve the goal, the government has to continuously increase the effort put into the development of road infrastructure.
+
+#bibliography("ref.yml")
