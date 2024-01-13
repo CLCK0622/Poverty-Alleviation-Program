@@ -1,11 +1,9 @@
 #import "template.typ": *
 
-// Take a look at the file `template.typ` in the file panel
-// to customize this template and discover how it works.
 #show: project.with(
   title: "Liupan Mt. Area",
   authors: (
-    (name: "Zhong 'Kevin' Yi", email: "zhongyi070622@gmail.com", affiliation: "No. 2 High School of East China Normal University", phone: "+86 136-5173-0570"),
+    (name: "Yi 'Kevin' Zhong", email: "clck0622@163.com", affiliation: "No. 2 High School of East China Normal University", phone: "+86 136-5173-0570, +65 8-067-0241 (not always available)"),
   ),
   // Insert your abstract after the colon, wrapped in brackets.
   // Example: `abstract: [This is my abstract...]`
@@ -63,11 +61,11 @@ Consider @ecology. the construction of roads is greatly affected by ecological p
 
 
 #figure(
-  image("ecology.jpg"),
+  image("ecology.jpg", width: 80%),
   caption: [Ecological security pattern construction and restoration zoning],
 ) <ecology>
 
-From a larger scale, evident is that Xiji and Haiyuan can be connected into the road system with roads of a higher level without affecting local ecological protection. Specifically, Haiyuan and Xiji may establish roads to the West. That these roads are not built can mainly be attributed to a lack of effort put into the border area of provinces. 
+From a larger scale, it is apparent that Xiji and Haiyuan can be connected into the road network with roads of a higher level without affecting local ecological preservation. Specifically, there is potential for the establishment of westward roads connection Haiyuan and Xiji. The absence of these roads can be mainly attributed to insufficient attention and efforts directed towards the border areas between provinces. 
 
 == Railway and Aviation
 
@@ -77,16 +75,25 @@ According to @roadsInGuyuan, the railway connections in Guyuan predominantly ali
 
 === Aviation
 
-The Guyuan Liupan Mt. Airport, lying in rural Guyuan, is the primary aviation hub in the Liupan Mt. Area. Currently meeting transportation needs, the airport provides a rapid way to transport to other cities. It is a vital link for goods and people, contributing to local economy. Recommendations include advocating for necessary infrastructure upgrades to enhance connectivity, ensuring the airport continues to play a pivotal role in supporting economic development and poverty alleviation initiatives in the Liupan Mountain region. Currently no sign of needing a thorough update can be detected. 
+The Guyuan Liupan Mt. Airport, lying in rural Guyuan, is the primary aviation hub in the Liupan Mt. Area. Presently meeting transportation needs, the airport provides a rapid way to transport to other cities. Functioning as a vital conduit for both goods and people, it contributes a lot to local economy. Recommendations include advocating for necessary infrastructure upgrades to enhance connectivity, ensuring the airport continues to play a pivotal role in supporting economic development and poverty alleviation initiatives in the Liupan Mountain region. Currently no sign of needing a thorough update can be detected. 
 
-== Evaluation of Effects
+== Effects Evaluation
 
-Given @GDP-comparison, we can see that the per capita GDP of Liupan Mountain District increased faster than that of other regions, and was close to the per capita GDP of Tibet in 2018. Although the per capita GDP of Liupan Mountain District is far higher than that of other contiguous poverty belts, it is still far less than the national average. 
+Given @GDP-comparison, the per capita GDP of the Liupan Mountain Area has demonstrated a faster growth rate compared to other regions, approaching the per capita GDP of Tibet in 2018. While the per capita GDP of the Liupan Mountain Area surpasses that of other neighboring poverty-stricken areas, it's still lower than the national average. By the end of 2022, the annual per capita income in the Liupan Mountain Area had already exceeded the poverty line, indicating a successful alleviation in poverty in this area.
 
 #figure(
   image("GDP-comparison.png"),
   caption: [The change in per capita GDP in contiguous poverty-stricken areas from 2013 to 2018],
 ) <GDP-comparison>
+
+Thanks to the measures aimed at enhancing transportation, there has been a significant improvement in both the efficiency and the condition of the transport system in this area.
+
+#figure(
+  image("AnnualCargoVolume.png", width: 80%),
+  caption: [Annual cargo volume in Ningxia Province (Source: National Bureau of Statistics)],
+) <AnnualCargoVolume>
+
+While looking into the data, I occasionally found an abnormal value in the figure, which shows that the annual cargo volume is going downward. Thus I wrote an email to the Development and Reform Commission in Ningxia Province and got a formal reply. According to the email reply, the total annual cargo volume in Ningxia Province has been growing in recent years. The apparent downward trend observed in @AnnualCargoVolume is attributed to a increasing proportion of cargo being transported by national railways, which is not represented in this specific chart. 
 
 =  Future Development Directions and Policy Recommendations
 
