@@ -48,7 +48,6 @@
   set par(justify: true)
   set text(hyphenate: false)
 
-
   // Abstract.
   pad(
     x: 2em,

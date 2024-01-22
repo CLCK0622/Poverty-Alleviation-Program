@@ -45,24 +45,31 @@
     ),
   )
 
+  set par(justify: true)
+  set text(hyphenate: false)
+
   // Abstract.
   pad(
     x: 2em,
     top: 1em,
-    bottom: 1.5em,
     align(center)[
       #heading(
         outlined: false,
         numbering: none,
         text(0.85em, smallcaps[Abstract]),
       )
+    ],
+  )
+
+  pad(
+    x: 2em,
+    bottom: 1.5em,
+    align(left)[
       #abstract
     ],
   )
 
   // Main body.
-  set par(justify: true)
-  set text(hyphenate: false)
 
   body
 }

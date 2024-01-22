@@ -3,7 +3,7 @@
 #show: project.with(
   title: "Qinba Mt. Area",
   authors: (
-    (name: "Yi 'Kevin' Zhong", email: "zhongyi070622@gmail.com", affiliation: "No. 2 High School of East China Normal University", phone: "+86 136-5173-0570"),
+    (name: "Yi 'Kevin' Zhong", email: "zhongyi070622@gmail.com", affiliation: "No. 2 High School of East China Normal University, Shanghai, P.R.China", phone: "+86 136-5173-0570"),
   ),
   // Insert your abstract after the colon, wrapped in brackets.
   // Example: `abstract: [This is my abstract...]`
