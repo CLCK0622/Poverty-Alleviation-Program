@@ -3,7 +3,7 @@
 #show: project.with(
   title: "The Role of Transport Systems in Poverty Alleviation in the Liupan Mountain Area",
   authors: (
-    (name: "Yi 'Kevin' Zhong", email: "clck0622@163.com", affiliation: "No. 2 High School of East China Normal University", phone: "+86 136-5173-0570, +65 8-067-0241 (not always available)"),
+    (name: "Yi 'Kevin' Zhong", email: "zhongyi070622@gmail.com", affiliation: "No. 2 High School of East China Normal University", phone: "+86 136-5173-0570"),
   ),
   // Insert your abstract after the colon, wrapped in brackets.
   // Example: `abstract: [This is my abstract...]`

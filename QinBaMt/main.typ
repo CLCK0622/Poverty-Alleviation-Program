@@ -1,9 +1,9 @@
 #import "template.typ": *
 
 #show: project.with(
-  title: "Liupan Mt. Area",
+  title: "Qinba Mt. Area",
   authors: (
-    (name: "Yi 'Kevin' Zhong", email: "clck0622@163.com", affiliation: "No. 2 High School of East China Normal University", phone: "+86 136-5173-0570, +65 806-702-41 (not always available)"),
+    (name: "Yi 'Kevin' Zhong", email: "zhongyi070622@gmail.com", affiliation: "No. 2 High School of East China Normal University", phone: "+86 136-5173-0570, +65 806-702-41 (not always available)"),
   ),
   // Insert your abstract after the colon, wrapped in brackets.
   // Example: `abstract: [This is my abstract...]`
