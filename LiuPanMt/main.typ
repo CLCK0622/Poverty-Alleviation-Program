@@ -7,7 +7,7 @@
   ),
   // Insert your abstract after the colon, wrapped in brackets.
   // Example: `abstract: [This is my abstract...]`
-  abstract: [This paper examines the role of transportation in poverty alleviation efforts within the Liupan Mountain Area of China. It argues that improved transportation infrastructure unlocks market access for agricultural products, fosters industrial development, and ultimately boosts incomes and well-being in impoverished regions. By analyzing the interplay between market openness, industrial structure, and strategic transportation planning, the paper provides recommendations for sustainable poverty reduction initiatives in the Liupan Mountain Area.],
+  abstract: [This paper analyzes the role of transportation in poverty alleviation efforts within the Liupan Mountain Area of China. It argues that improved transportation infrastructure unlocks market access for agricultural products, fosters industrial development, and eventually boosts incomes in impoverished regions. By analyzing the interplay between market openness, industrial structure, and strategic transportation planning, the paper provides recommendations for sustainable poverty reduction initiatives in the Liupan Mountain Area. Such conclusions can be applied to understand poverty alleviation policies and thus improve efforts within the region. ],
 )
 
 = Introduction
