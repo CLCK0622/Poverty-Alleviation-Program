@@ -3,7 +3,7 @@
 #show: project.with(
   title: "The Role of Transport Systems in Poverty Alleviation in the Liupan Mountain Area",
   authors: (
-    (name: "Yi 'Kevin' Zhong", email: "zhongyi070622@gmail.com", affiliation: "No. 2 High School of East China Normal University", phone: "+86 136-5173-0570"),
+    (name: "Yi 'Kevin' Zhong", email: "zhongyi070622@gmail.com", affiliation: "No. 2 High School of East China Normal University, Shanghai, P.R.China", phone: "+86 136-5173-0570"),
   ),
   // Insert your abstract after the colon, wrapped in brackets.
   // Example: `abstract: [This is my abstract...]`
@@ -61,7 +61,7 @@ Consider @ecology. the construction of roads is greatly affected by ecological p
 
 
 #figure(
-  image("ecology.jpg", width: 80%),
+  image("ecology.jpg", width: 60%),
   caption: [Ecological security pattern construction and restoration zoning @biology-situation],
 ) <ecology>
 
