@@ -20,9 +20,7 @@ The economic development of the Qinba area saw new growth following the Song Dyn
 
 During the Song Dynasty, there was a significant increase in productivity, marking the emergence of early capitalism. Citizens began to diversify their economic activities beyond agriculture, venturing into manual industries that embarked on a primitive path toward industrialization. The control over land loosened considerably, allowing for the free buying and selling of land. From the beginning of the Song Dynasty, the restrictive employing relationships that limited personal freedom were greatly reduced, and capitalistic marketplaces started to appear. At this time, the Qinba Mountain Area, serving as an economic hub, saw its inhabitants mainly engaged in agriculture and small-scale manual industries. The region's support capacity for large-scale industries was weak, explaining the rapid decline of the Qinba Mountain Area in the subsequent dynasties. @the-emergence-of-early-capitalism-in-song-dynasty
 
-During the Yuan, Ming, and Qing dynasties, as China's ancient economic center shifted south, the Qinba region's economic growth slowed, though not completely halted. For instance, during the Yuan Dynasty, the Jing-Xiang area, which had long suffered from wars, saw rapid economic recovery under policies encouraging cultivation. Despite losing its status as a primary administrative region, Xiangyang maintained its strategic importance throughout history. Nanyang, during the Qing Dynasty, emerged as an economic center in southwestern Henan, bustling with business and trade.
-
-Since the late Qing Dynasty and into modern times, the Qinba Mountain Area has experienced slower economic development compared to other regions in China. This lag in progress has increasingly widened the gap between Qinba and the rest of the country. Since the founding of the People's Republic of China, the region has faced several challenges that have contributed to its status as one of the most impoverished areas in the nation. These challenges include inconvenient transportation, outdated and insufficient infrastructure, a deteriorating natural ecological environment, as well as a lag in modernizing local concepts and a prevailing sense of isolation.
+During the Yuan, Ming, and Qing dynasties, as China's ancient economic center shifted south, the Qinba region's economic growth slowed, though not completely halted. However, since the late Qing Dynasty and into modern times, the Qinba Mountain Area has experienced slower economic development compared to other regions in China. This lag in progress has increasingly widened the gap between Qinba and the rest of the country. Since the founding of the People's Republic of China, the region has faced several challenges that have contributed to its status as one of the most impoverished areas in the nation. These challenges include inconvenient transportation, outdated and insufficient infrastructure, a deteriorating natural ecological environment, as well as a lag in modernizing local concepts and a prevailing sense of isolation.
 
 These historical and ongoing challenges have significantly influenced the region's economic and social landscape, setting the backdrop for the current poverty alleviation efforts. Understanding these factors is crucial for framing the current strategies and actions being implemented to improve the living conditions and economic prospects of the Qinba Mountain Area.
 
@@ -38,7 +36,7 @@ This comprehensive approach, blending historical understanding with contemporary
 
 // TODO add details including data, charts...
 
-1. *Harsh Natural Environment:* The Qinba Mountain Area, spanning across Shaanxi, Gansu, Sichuan, Hubei, and Henan provinces, is characterized by its rugged terrain and harsh climate. Frequent natural disasters, including floods and landslides, exacerbate the living conditions, leading to crop failures and destruction of homes. For instance, Ding Xiang'e, a villager, saw her home and crops destroyed by floods, highlighting the vulnerability of the region's agriculture to natural calamities.
+1. *Harsh Natural Environment:* The Qinba Mountain Area, spanning across Shaanxi, Gansu, Sichuan, Hubei, and Henan provinces, is characterized by its rugged terrain and harsh climate. Frequent natural disasters, including floods and landslides, exacerbate the living conditions, leading to crop failures and destruction of homes.
 
 2. *Inconvenient Transportation:* The area's geographic isolation is compounded by inadequate transportation infrastructure, making access to markets, healthcare, and educational facilities challenging. The lack of connectivity not only hinders economic development but also affects the ability of residents to seek better employment opportunities and access essential services.
 
@@ -58,11 +56,9 @@ According to @GDP-China @China-GDP-2022 and @GDP-Hanzhong @Hanzhong-GDP-2022, th
 
 == Illustrative Cases from the Qinba Mountain Area
 
-- The economic hardships faced by disabled individuals and elderly patients underscore the region's lack of support systems. For example, the story of Peng Xuezhang, who struggles to afford medication for chronic diseases, reflects the broader issue of healthcare accessibility and affordability.
+- The economic hardships faced by disabled individuals and elderly patients underscore the region's lack of support and care systems. The story of local people who struggle to afford medication for chronic diseases, reflects the broader issue of healthcare accessibility and affordability.
   
-- The impact of education costs on impoverished families is another critical aspect. The case of Zhou Zhijun, who had to incur significant debt to finance his children's education, highlights the financial strain placed on families by the pursuit of higher education, exacerbated by the region's economic constraints.
-
-- Elderly individuals, such as Li Mingfu and Li Jumei, face the dual burden of managing chronic illnesses on a meager income, illustrating the compounded challenges of healthcare costs and limited financial resources.
+- The impact of education costs on impoverished families is another critical aspect. Local families have to incur significant debt to finance children's education, highlighting the financial strain placed on families by the pursuit of higher education.
 
 == Conclusion
 
