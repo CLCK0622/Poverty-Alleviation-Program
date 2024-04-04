@@ -5,3 +5,30 @@ the-emergence-of-early-capitalism-in-song-dynasty:
     author: ["GE Jinfang", "GU Rong"]
     journal: 社会学研究
     doi: 10.19934/j.cnki.shxyj.1994.06.021
+
+5-strategies:
+    type: Web
+    title: 秦巴山片区：深度贫困的七大表象 Seven Symptoms of Deep Poverty in Qinba Mt. Area
+    url: https://www.jianpincn.com/zgjpsjk/jpda/14g/qbspq/fpyw/355771.html
+    author: ["省扶贫办建档立卡数据分析课题组 Provincial Poverty Alleviation Office’s Data Analysis Research Team"]
+    editor: ["HUANG Jianfeng"]
+    date: 2015-07-02
+    parent:
+      type: Web
+      organization: Chinese Academy of Social Science
+      url: https://www.jianpincn.com/
+      publisher: Social Sciences Academic Press
+
+China-GDP-2022:
+    type: Web
+    title: "Statistical Bulletin of the National Economic and Social Development of the People's Republic of China in 2022"
+    url: https://www.stats.gov.cn/sj/zxfb/202302/t20230228_1919011.html
+    author: ["National Bureau of Statistics of China"]
+    date: 2023-02-28
+
+Hanzhong-GDP-2022:
+    type: Web
+    title: "Hanzhong City's 2022 National Economic and Social Development Statistical Bulletin"
+    url: http://www.hanzhong.gov.cn/hzszf/zwgk/tjxx/tjgb/202303/45c6e0cf9156480d830e1ce4d2ce2ee5.shtml
+    author: Hanzhong Municipal Bureau of Statistics
+    date: 2023-03-31

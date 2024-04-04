@@ -1,13 +1,13 @@
 #import "template.typ": *
 
 #show: project.with(
-  title: "Qinba Mt. Area",
+  title: "Revitalizing the Qinba Mountain Area: Tackling Poverty through Optimized Industry Structure",
   authors: (
     (name: "Yi 'Kevin' Zhong", email: "zhongyi070622@gmail.com", affiliation: "No. 2 High School of East China Normal University, Shanghai, P.R.China", phone: "+86 136-5173-0570"),
   ),
   // Insert your abstract after the colon, wrapped in brackets.
   // Example: `abstract: [This is my abstract...]`
-  abstract: [... W.I.P],
+  abstract: [This essay examines the Qinba Mountain Area's transition from historical prosperity to its current status as one of China's most impoverished regions, primarily due to environmental challenges, inadequate infrastructure, and weak industrial support. It identifies modern issues such as limited access to healthcare, education, and economic opportunities as main problems brought by poverty. The proposed poverty alleviation strategies focus on developing local industries, enhancing infrastructure, and improving social security measures, aiming to leverage the region's unique advantages for sustainable development. Through targeted interventions, the essay underscores the potential for significantly improving living standards and economic prospects in the Qinba Mountain Area.],
 )
 
 = Introduction
@@ -44,6 +44,18 @@ This comprehensive approach, blending historical understanding with contemporary
 
 3. *Weak Industrial Support:* The region's economy is primarily agrarian, with limited industrial development. This lack of diverse income sources limits the residents' ability to break the cycle of poverty. The economic stagnation is vividly illustrated by the plight of families who, despite possessing the will, lack the means to improve their living standards due to the absence of stable and lucrative employment opportunities.
 
+#figure(
+  image("GDP-China.png"),
+  caption: "The Increased Value of The Three Industries as a Proportion of The GDP in China in 2022"
+) <GDP-China> 
+
+#figure(
+  image("GDP-Hanzhong.png"),
+  caption: "The Increased Value of The Three Industries as a Proportion of The GDP in Hanzhong, Shaanxi in 2022"
+) <GDP-Hanzhong>
+
+According to @GDP-China @China-GDP-2022 and @GDP-Hanzhong @Hanzhong-GDP-2022, the proportion of Hanzhong's primary industry in GDP is much higher than the national average, which indicates that agriculture still plays an important role in local economy with a relatively weaker industrial support.
+
 == Illustrative Cases from the Qinba Mountain Area
 
 - The economic hardships faced by disabled individuals and elderly patients underscore the region's lack of support systems. For example, the story of Peng Xuezhang, who struggles to afford medication for chronic diseases, reflects the broader issue of healthcare accessibility and affordability.
@@ -60,7 +72,7 @@ The challenges faced by the Qinba Mountain Area are indicative of the complex in
 
 The strategy to alleviate poverty in the Qinba Mountain Area involves a comprehensive and multifaceted approach, addressing the root causes of poverty through the development of characteristic industries, enhancement of village infrastructure, economic development at the county level, improvement of social security capacity, and adherence to ecological protection. These strategies offer a roadmap for sustainable poverty alleviation.
 
-== Strategies
+== Strategies @5-strategies
 
 === Development of Local Advantage Industries to Increase Income
 
@@ -92,40 +104,22 @@ Address healthcare, education, and elderly care to reduce the urban-rural divide
 
 Focus on ecological conservation, governance, and environmental protection to ensure the sustainable development of the region. This includes leveraging national policies for ecological compensation and developing industries that are compatible with environmental conservation.
 
-== Implementation Examples
-
-// TODO add more details and photos...
-
-- In Dazhou City, infrastructure improvements, such as road expansions, have facilitated access to markets and services, enabling villagers to engage in more profitable agricultural activities.
-
-- In Bazhong City, the development of eco-tourism has provided an alternative income source for poor households, leveraging the area's natural beauty and cultural heritage.
-
-- In Guangyuan City, the adoption of a cooperative model for poultry farming has provided direct income to poor households and offered employment opportunities within the community.
-
-These examples underscore the importance of a coordinated and comprehensive approach to poverty alleviation that addresses both immediate needs and long-term sustainability. By focusing on these five strategic areas, the Qinba Mountain Area can make significant strides toward reducing poverty and enhancing the quality of life for its residents.
-
 = Effects
 
-// TODO focus on special industries
-
 #figure(
-  image("Effects-1.png"),
-  caption: [111],
+  image("Effects-1.png", width: 60%),
+  caption: [Local Residents Making Bamboo Chairs],
 ) <Effects-1>
 
+According to @Effects-1, the government utilizes local labor resources and mobilized residents to participate in weaving bamboo chairs and selling them for extra income. The adoption of a cooperative model for handicraft production has provided direct income to poor households and offered employment opportunities within the community.
+
 #figure(
-  image("Effects-2.png"),
-  caption: [222],
+  image("Effects-2.png", width: 60%),
+  caption: [High-tech Edible Fungus Planting Factory],
 ) <Effects-2>
 
-#figure(
-  image("Effects-3.png"),
-  caption: [333],
-) <Effects-3>
+Given @Effects-2, the government has introduced automated agricultural technology and established edible fungus production plants according to local conditions to enhance the support capacity of agriculture in the economy. Infrastructure improvements, such as road expansions, have facilitated access to markets and services, enabling villagers to engage in more profitable agricultural activities.
 
-#figure(
-  image("Effects-4.png"),
-  caption: [444],
-) <Effects-4>
+These examples underscore the importance of a coordinated and comprehensive approach to poverty alleviation that addresses both immediate needs and long-term sustainability. By focusing on the five strategic areas mentioned before, the Qinba Mountain Area can make significant strides toward reducing poverty and enhancing the quality of life for its residents.
 
 #bibliography("ref.yml")
