@@ -34,8 +34,6 @@ This comprehensive approach, blending historical understanding with contemporary
 
 == Causes of Poverty in the Qinba Mountain Area
 
-// TODO add details including data, charts...
-
 1. *Harsh Natural Environment:* The Qinba Mountain Area, spanning across Shaanxi, Gansu, Sichuan, Hubei, and Henan provinces, is characterized by its rugged terrain and harsh climate. Frequent natural disasters, including floods and landslides, exacerbate the living conditions, leading to crop failures and destruction of homes.
 
 2. *Inconvenient Transportation:* The area's geographic isolation is compounded by inadequate transportation infrastructure, making access to markets, healthcare, and educational facilities challenging. The lack of connectivity not only hinders economic development but also affects the ability of residents to seek better employment opportunities and access essential services.
